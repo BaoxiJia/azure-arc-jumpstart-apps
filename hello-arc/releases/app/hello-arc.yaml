@@ -15,7 +15,7 @@ spec:
     image:
       repository: azurearcjumpstart.azurecr.io/hello-arc-gitops
       tag: latest
-    replicaCount: 2
+    replicaCount: 1
     env:
       name: MESSAGE
       value: Deploying to AKS on HCI Gitops!
