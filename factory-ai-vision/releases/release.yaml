@@ -11,7 +11,7 @@ spec:
   chart:
     spec:
       chart: ./factory-ai-vision/charts/VisionOnEdge
-      version: 0.0.2
+      version: 0.0.3
   values:
     azureIoT:
       hubConnectionString: HostName=bx-hub-2.azure-devices.net;SharedAccessKeyName=iothubowner;SharedAccessKey=W+6h6pZeUVd5DgeLsGtQl7z5IYxxZMcH4MzZtAe2ASM=
