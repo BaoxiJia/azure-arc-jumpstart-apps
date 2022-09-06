@@ -8,6 +8,7 @@ metadata:
 spec:
   interval: 1m
   releaseName: voe
+  version: 0.0.1
   chart:
     spec:
       chart: ./factory-ai-vision/charts/VisionOnEdge
